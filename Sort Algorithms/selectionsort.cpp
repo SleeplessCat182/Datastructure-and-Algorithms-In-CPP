@@ -2,6 +2,7 @@
  * Selection Sort
  * Idea: Divide the array into 2 parts, the first part is the sorted part and the other is unsorted part.
  * Pick minimum element in unsorted part and 'swap' to sorted part.
+ * Time Complexity: O(n^2)
  */
 
 #include <iostream>
