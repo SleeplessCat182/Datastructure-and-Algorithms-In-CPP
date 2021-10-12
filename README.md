@@ -1,6 +1,6 @@
 # Data structures In CPP
 This repo contains many algorithms and data structures in C++. There will be an explanation for each algorithm/data structure.
-Feel free to use this as your reference. If there is any bug or the code misbehaves in any circumstances, please kindly let me know.
+Feel free to use this as your reference. If there are some bugs or the code misbehaves in any circumstances, please kindly let me know.
 
 ## Sort Algorithms
 **Insertion Sort**
