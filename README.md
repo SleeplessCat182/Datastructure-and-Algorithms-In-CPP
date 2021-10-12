@@ -21,7 +21,7 @@ void insertion_sort(vector<int>& a){
     } 
 }
 ```
-As from the code, you can see that after each iteration of j to a.size()-1, the smallest number will be in the first, second, third position of the array, respectively. Yes in this code the array is sorted ascendingly, in case you want to sort the array descendingly just swap the comparision of a[i] and a[j].
+As from the code, you can see that after each iteration of j to a.size()-1, the smallest number of the unsorted part will be in the first, second, third position of the array, respectively. Yes in this code the array is sorted ascendingly, in case you want to sort the array descendingly just swap the comparision of a[i] and a[j].
 
 Let take an example:
 
