@@ -4,7 +4,7 @@ Feel free to use this as your reference. If there are some bugs or the code misb
 
 ## Sort Algorithms
 ### List of algorithms:
-[Insertion Sort](#-Insertion-Sort)
+[Insertion Sort](#InsertionSort)
 
 **Insertion Sort**
 
