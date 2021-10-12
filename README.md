@@ -3,6 +3,9 @@ This repo contains many algorithms and data structures in C++. There will be an 
 Feel free to use this as your reference. If there are some bugs or the code misbehaves in any circumstances, please kindly let me know.
 
 ## Sort Algorithms
+### List of algorithms:
+[Insertion Sort](#-Insertion-Sort)
+
 **Insertion Sort**
 
 Imagining that you are playing a card game and you want to sort the card ascendingly. Virtually considering the list of your cards, as an array, then the array will have two parts, the sorted and unsorted part. However, like playing a card game, we will sort the card one by one, in other words; we will sort the ajacent elements one by one only.
