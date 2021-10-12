@@ -10,7 +10,6 @@ Imagining that you are playing a card game and you want to sort the card ascendi
 The main idea of Insertion sort: Pick a value from unsorted part and place or "Insert" in the right position in sorted part.
 
 ```cpp
-using namespace std;
 
 void insertion_sort(vector<int>& a){
     for(int i=0;i<a.size();i++){
