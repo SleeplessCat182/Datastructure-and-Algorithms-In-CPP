@@ -4,7 +4,6 @@ Feel free to use this as your reference. If there are some bugs or the code misb
 
 ## Sort Algorithms
 ### List of algorithms:
-[Insertion Sort](#Insertion-Sort)
 
 **Insertion Sort**
 
@@ -28,7 +27,7 @@ As from the code, you can see that after each iteration of j to a.size()-1, the 
 
 Let take an example:
 
-Assume I have an array a[] = {5,4,3,2,1}
+Assume I have an array a[ ] = {5,4,3,2,1}
 Here is what happen after each iteration of j to a.size()-1
 - 1 5 4 3 2
 - 1 2 5 4 3
